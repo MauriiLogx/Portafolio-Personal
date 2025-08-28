@@ -66,9 +66,7 @@ const Hero = () => {
             className="text-lg text-gray-600 max-w-3xl mx-auto mb-12 leading-relaxed"
             variants={itemVariants}
           >
-            Desarrollador Full Stack especializado en React Native, Node.js y bases de datos SQL. 
-            Apasionado por crear soluciones tecnológicas eficientes que mejoren la experiencia del usuario 
-            y optimicen procesos empresariales.
+            Ingeniero Informático recién egresado con interés en aseguramiento de calidad (QA), desarrollo y mejora continua de procesos. En formación constante para aportar a equipos con soluciones confiables y orientadas al usuario.
           </motion.p>
 
           <motion.div
