@@ -2,14 +2,14 @@
 
 Bienvenido a mi portafolio personal. Aquí encontrarás una muestra de mi trayectoria como Ingeniero en Informática, mis habilidades técnicas y los proyectos en los que he trabajado.
 
-## 🚀 Vista Previa
+## Vista Previa
 
 Puedes ver el portafolio en vivo a través de GitHub Pages:
 👉 **[Ver Portafolio en Vivo](https://mauriilogx.github.io/Portafolio-Personal/)**
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 El portafolio está construido con tecnologías modernas de desarrollo web:
 
@@ -20,14 +20,14 @@ El portafolio está construido con tecnologías modernas de desarrollo web:
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
 1.  **Sistema de Gestión de Inventarios**: Desarrollado para la Municipalidad de San Carlos (React Native, Node.js, MySQL).
 2.  **ERP para Fábrica de Bloques**: Sistema integral de producción y logística (Next.js, TypeScript, Prisma, Tailwind CSS).
 
 ---
 
-## 💻 Cómo verlo localmente
+## Cómo verlo localmente
 
 Si deseas clonar el repositorio y ejecutarlo en tu máquina local, sigue estos pasos:
 
@@ -44,11 +44,10 @@ Si deseas clonar el repositorio y ejecutarlo en tu máquina local, sigue estos p
 
 ---
 
-## ✉️ Contacto
+## Contacto
 
 - **Ubicación**: San Carlos, Ñuble — Chile
-- **LinkedIn**: [Mauricio Faúndez](https://www.linkedin.com/in/tu-perfil) (Actualizar link si es necesario)
+- **LinkedIn**: [Mauricio Faúndez](https://www.linkedin.com/in/mauricio-faundez-san-martin-250789383/)
 - **Email**: [Mauricio.faundez@hotmail.com](mailto:Mauricio.faundez@hotmail.com)
 
 ---
-*Desarrollado con ❤️ por Mauricio Faúndez — 2025*
