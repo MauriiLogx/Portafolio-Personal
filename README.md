@@ -5,7 +5,7 @@ Bienvenido a mi portafolio personal. Aquí encontrarás una muestra de mi trayec
 ## Vista Previa
 
 Puedes ver el portafolio en vivo a través de GitHub Pages:
-👉 **[Ver Portafolio en Vivo](https://mauriilogx.github.io/Portafolio-Personal/)**
+**[Ver Portafolio en Vivo](https://mauriilogx.github.io/Portafolio-Personal/)**
 
 ---
 
