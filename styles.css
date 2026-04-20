@@ -307,13 +307,6 @@ h2 {
   font-size: 0.9rem;
 }
 
-.info-row .icon {
-  color: var(--accent);
-  font-size: 1rem;
-  width: 20px;
-  text-align: center;
-}
-
 .info-row .label {
   color: var(--muted);
   font-size: 0.75rem;
@@ -399,7 +392,16 @@ h2 {
 .tl-company {
   color: var(--muted);
   font-size: 0.88rem;
+  margin-bottom: 12px;
+}
+
+.tl-intro {
+  color: #9ca3af;
+  font-size: 0.92rem;
+  line-height: 1.65;
   margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
 }
 
 .tl-bullets {
@@ -626,13 +628,7 @@ h2 {
 .project-card:nth-child(3) .project-thumb { background: linear-gradient(135deg, #0d2a1a, #1a5c3a); }
 .project-card:nth-child(4) .project-thumb { background: linear-gradient(135deg, #2a1a0d, #5c3a1a); }
 
-.project-thumb-icon {
-  font-size: 3rem;
-  opacity: 0.15;
-  position: absolute;
-  bottom: -10px;
-  right: 20px;
-}
+/* .project-thumb-icon removed — no emoji icons used */
 
 .project-thumb-label {
   font-family: 'Syne', sans-serif;
